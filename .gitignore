@@ -1,0 +1,11 @@
+# OS specific
+.DS_Store
+
+# IDE specific
+/.idea
+
+# Composer
+/vendor
+
+# PHPUnit
+.phpunit.cache
